@@ -1,1 +1,1 @@
-# MiniProject_Template
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a08fa1ff613b44779565f62eeec60d37)](https://www.codacy.com/gh/Sachinrudra/MiniProject_Template/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sachinrudra/MiniProject_Template&amp;utm_campaign=Badge_Grade)
