@@ -1,1 +1,2 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dabff4893df94d40b9e86862d334853e)](https://app.codacy.com/gh/Sachinrudra/MiniProject_Template?utm_source=github.com&utm_medium=referral&utm_content=Sachinrudra/MiniProject_Template&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a08fa1ff613b44779565f62eeec60d37)](https://www.codacy.com/gh/Sachinrudra/MiniProject_Template/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sachinrudra/MiniProject_Template&amp;utm_campaign=Badge_Grade)
