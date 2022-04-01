@@ -62,10 +62,6 @@ void test_chips(void) {
   TEST_ASSERT_EQUAL(3, chips(75));
 }
 
-© 2022 GitHub, Inc.
+Â© 2022 GitHub, Inc.
 Terms
 Privacy
-
-
-
-
