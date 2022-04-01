@@ -26,6 +26,9 @@ An automated machine which is intended to provide the users with a diverse range
 - The threat of vandalising vending machines is faced by vendors across the globe.
 - Proper security measure must be incorporated in machines to save machines from thefts, damages or stealing of products.
 
+![SWOT ANALYSIS](https://user-images.githubusercontent.com/101185443/161246084-c1b569fd-0ea0-4f82-ac0c-5f5a662eed7f.png)
+
+
 ## 4W's and 1'H
 - **WHAT** : Vending Machine.
 - **WHERE** : In the Malls, Streets, School/Universites .
