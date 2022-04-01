@@ -9,4 +9,25 @@ Codacy -Static Code Analysis
 
 ![Codiga Badge](https://api.codiga.io/project/32285/status/svg)
 
-* cppcheck action
+* Valgrind
+
+[![Valgrind](https://github.com/Sachinrudra/MiniProject_Template/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Sachinrudra/MiniProject_Template/actions/workflows/valgrind.yml)
+
+
+
+* Git Inspector
+
+[![Contribution Check - Git Inspector](https://github.com/Sachinrudra/MiniProject_Template/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Sachinrudra/MiniProject_Template/actions/workflows/git_inspector.yml)
+
+
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Output_Images`  | Output images 
+`5_Report`         |Document consisting the evaluation sheet
+`6_Test_plan`      |test plans and procedures
+`7_Other`          |doxygen document 
