@@ -1,6 +1,6 @@
 
 #include "unity.h"
-#include <Vending_Machine.h>
+#include <vending_machine.h>
 
 /* Modify these two lines according to the project */
 #include <Vending_Machine.h>
