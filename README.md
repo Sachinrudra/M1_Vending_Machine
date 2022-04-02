@@ -20,6 +20,10 @@ Codacy -Static Code Analysis
 [![Contribution Check - Git Inspector](https://github.com/Sachinrudra/MiniProject_Template/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Sachinrudra/MiniProject_Template/actions/workflows/git_inspector.yml)
 
 
+* cppcheck action
+
+[![cppcheck-action](https://github.com/Sachinrudra/M1_Vending_Machine/actions/workflows/cppcheck-action.yml/badge.svg)](https://github.com/Sachinrudra/M1_Vending_Machine/actions/workflows/cppcheck-action.yml)
+
 
 ## Folder Structure
 Folder             | Description
