@@ -49,8 +49,8 @@ An automated machine which is intended to provide the users with a diverse range
 ### Low Level Requirements
 | Low Level Requirements      | Description |
 | ----------- | ----------- |
-| HLR1_LLR1  | Space |
-| HLR2_LLR1   | Menu - Chocolates|
-| HLR2_LLR2   | Menu - Stataniory|
-| HLR2_LLR3   | Menu - Chips|
-| HLR2_LLR4   | Menu - Pay The Money|
+| LLR1   | Space |
+| LLR1   | Menu - Chocolates|
+| LLR2   | Menu - Stataniory|
+| LLR3   | Menu - Chips|
+| LLR4   | Menu - Pay The Money|
