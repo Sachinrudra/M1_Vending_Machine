@@ -38,4 +38,4 @@ Folder             | Description
 `4_Output_Images`  | Output images 
 `5_Report`         |Document consisting the evaluation sheet
 `6_Test_plan`      |test plans and procedures
-`7_Other`          |doxygen document 
+
