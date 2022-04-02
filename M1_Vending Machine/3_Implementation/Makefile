@@ -9,7 +9,7 @@ SRC = Vending_Machine.c\
 src/Vending_Machine.c
 
 # All test source files
-TEST_SRC = src/Vending_Machine.c\
+TEST_SRC = src/vending_machine.c\
 test/test_vending_machine.c\
 unity/unity.c\
 
