@@ -24,6 +24,10 @@ Codacy -Static Code Analysis
 
 [![cppcheck-action](https://github.com/Sachinrudra/M1_Vending_Machine/actions/workflows/cppcheck-action.yml/badge.svg)](https://github.com/Sachinrudra/M1_Vending_Machine/actions/workflows/cppcheck-action.yml)
 
+* Analysis
+
+[![Analysis](https://github.com/Sachinrudra/M1_Vending_Machine/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Sachinrudra/M1_Vending_Machine/actions/workflows/Analysis.yml)
+
 
 ## Folder Structure
 Folder             | Description
