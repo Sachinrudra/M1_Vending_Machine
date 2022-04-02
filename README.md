@@ -17,7 +17,7 @@ Codacy -Static Code Analysis
 
 * Git Inspector
 
-[![Contribution Check - Git Inspector](https://github.com/Sachinrudra/MiniProject_Template/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Sachinrudra/MiniProject_Template/actions/workflows/git_inspector.yml)
+[![Contribution Check - Git Inspector](https://github.com/Sachinrudra/M1_Vending_Machine/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Sachinrudra/M1_Vending_Machine/actions/workflows/git_inspector.yml)
 
 
 * cppcheck action
