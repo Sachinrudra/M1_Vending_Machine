@@ -1,1 +1,1 @@
-@mainpage Vending Machine by "Sachin Kumar" @subpage covid_tracking_system.h
+@mainpage Vending Machine by "Sachin Kumar" @subpage vending_machine.h
