@@ -5,8 +5,8 @@ PROJECT_NAME = Vending Machine
 BUILD = build
 
 # All source code files
-SRC = Vending_Machine.c\
-src/Vending_Machine.c
+SRC = vending_machine.c\
+src/vending_machine.c
 
 # All test source files
 TEST_SRC = src/vending_machine.c\
