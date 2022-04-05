@@ -10,8 +10,8 @@
  *
  */
 
- #ifndef __Vending_Machine.h__
- #define __Vending_Machine.h__
+ #ifndef __vending_machine.h__
+ #define __vending_machine.h__
 
 #include<stdio.h>
 #include<stdlib.h>
