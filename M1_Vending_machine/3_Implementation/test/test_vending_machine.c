@@ -3,7 +3,7 @@
 #include <vending_machine.h>
 
 /* Modify these two lines according to the project */
-#include <Vending_Machine.h>
+#include <vending_machine.h>
 #define PROJECT_NAME    "Vending Machine"
 
 /* Prototypes for all the test functions */
